@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Python Lab Assignment 3",
+        "subject": "Python",
+        "deadline": "28-09-2026",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "name": "Calculus Problem Set 2",
+        "subject": "Calculus",
+        "deadline": "20-09-2026",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "name": "EVS Field Report",
+        "subject": "EVS",
+        "deadline": "15-09-2026",
+        "priority": "Medium",
+        "status": "Completed"
+    },
+    {
+        "id": 4,
+        "name": "Digital Logic Simulation",
+        "subject": "DLD",
+        "deadline": "30-09-2026",
+        "priority": "Low",
+        "status": "Pending"
+    }
+]

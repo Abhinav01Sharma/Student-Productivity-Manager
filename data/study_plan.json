@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "subject": "Calculus",
+        "topic": "Limits & Continuity",
+        "date": "27-09-2026",
+        "hours": 2.0,
+        "status": "Completed"
+    },
+    {
+        "id": 2,
+        "subject": "Python",
+        "topic": "File Handling & JSON",
+        "date": "27-09-2026",
+        "hours": 1.5,
+        "status": "Incomplete"
+    },
+    {
+        "id": 3,
+        "subject": "DLD",
+        "topic": "K-Maps & Logic Gates",
+        "date": "28-09-2026",
+        "hours": 2.0,
+        "status": "Incomplete"
+    }
+]

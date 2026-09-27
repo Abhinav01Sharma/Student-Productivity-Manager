@@ -1,0 +1,27 @@
+[
+    {
+        "subject": "Environmental Sustainibility",
+        "conducted": 30,
+        "attended": 26
+    },
+    {
+        "subject": "Calculus",
+        "conducted": 28,
+        "attended": 18
+    },
+    {
+        "subject": "Effective Technical Communication",
+        "conducted": 20,
+        "attended": 19
+    },
+    {
+        "subject": "Digital Logic Design",
+        "conducted": 24,
+        "attended": 16
+    },
+    {
+        "subject": "PYTHON",
+        "conducted": 30,
+        "attended": 27
+    }
+]
